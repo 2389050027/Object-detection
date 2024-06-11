@@ -8,4 +8,6 @@
 |  SINet-V2    |[Concealed Object Detection](https://mmcheng.net/cod/)| TPAMI | 2022 | [Python](https://github.com/GewelsJI/SINet-V2) |2024.5.27|
 |  MemSeg    |[MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities](https://www.sciencedirect.com/science/article/abs/pii/S0952197623000192?via%3Dihub)| Engineering Applications of Artificial Intelligence | 2023 | [Python](https://github.com/TooTouch/MemSeg) |2024.5.27|
 |  patchcore-inspection   |[Towards Large-Scale Small Object Detection:Survey and Benchmarks](https://doi.org/10.1109/TPAMI.2023.3290594)| TPAMI | 2023 | [Python](https://shaunyuan22.github.io/SODA) |2024.5.27|
+|  HIC-YOLOv5   |[    HIC-YOLOv5: Improved YOLOv5 For Small Object Detection  ](https://arxiv.org/pdf/2309.16393v2)| arxiv | 2024 | [Python](https://github.com/Jacoo-ai/HIC-Yolov5) |2024.6.10|
+
 
